@@ -1,0 +1,1936 @@
+/usr/local/lib/python2.7/dist-packages/mvnc/mvncapi.py:418: DeprecationWarning: The binary mode of fromstring is deprecated, as it behaves surprisingly on unicode inputs. Use frombuffer instead
+  tensor = numpy.fromstring(tensor.raw, dtype=numpy.float32)
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: red_wheel_side  Confidence: 28.4912109375%  Top Left: (138, 484)  Bottom Right: (149, 508)
+[1, 9.0, 28.4912109375, 0.2875, 0.75625, 0.3104166666666667, 0.79375]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: background  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+/usr/local/lib/python2.7/dist-packages/mvnc/mvncapi.py:418: DeprecationWarning: The binary mode of fromstring is deprecated, as it behaves surprisingly on unicode inputs. Use frombuffer instead
+  tensor = numpy.fromstring(tensor.raw, dtype=numpy.float32)
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: channel  Confidence: 39.2578125%  Top Left: (199, 292)  Bottom Right: (341, 433)
+[1, 3.0, 39.2578125, 0.41458333333333336, 0.45625, 0.7104166666666667, 0.6765625]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: channel  Confidence: 32.421875%  Top Left: (190, 295)  Bottom Right: (322, 428)
+[1, 3.0, 32.421875, 0.3958333333333333, 0.4609375, 0.6708333333333333, 0.66875]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: channel  Confidence: 36.03515625%  Top Left: (198, 291)  Bottom Right: (337, 422)
+[1, 3.0, 36.03515625, 0.4125, 0.4546875, 0.7020833333333333, 0.659375]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : ClassID: dieX  Confidence: -100.0%  Top Left: (0, 0)  Bottom Right: (-480, -640)
+[1, -1.0, -100.0, 0.0, 0.0, -1.0, -1.0]
+True
+(300, 300, 3)
+total num boxes: 1
+box at index: 0 : Clas

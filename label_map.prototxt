@@ -1,0 +1,105 @@
+item {
+  name: "none_of_the_above"
+  label: 0
+  display_name: "background"
+}
+item {
+  name: "path_marker"
+  label: 1
+  display_name: "path_marker"
+}
+item {
+  name: "start_gate"
+  label: 2
+  display_name: "start_gate"
+}
+item {
+  name: "channel"
+  label: 3
+  display_name: "channel"
+}
+item {
+  name: "claw"
+  label: 4
+  display_name: "claw"
+}
+item {
+  name: "die"
+  label: 5
+  display_name: "die"
+}
+item {
+  name: "roulette_wheel"
+  label: 6
+  display_name: "roulette_wheel"
+}
+item {
+  name: "red_wheel_side"
+  label: 7
+  display_name: "red_wheel_side"
+}
+item {
+  name: "black_wheel_side"
+  label: 8
+  display_name: "black_wheel_side"
+}
+item {
+  name: "slot_machine"
+  label: 9
+  display_name: "slot_machine"
+}
+item {
+  name: "slot_handle"
+  label: 10
+  display_name: "slot_handle"
+}
+item {
+  name: "r_slot_target"
+  label: 11
+  display_name: "r_slot_target"
+}
+item {
+  name: "y_slot_target"
+  label: 12
+  display_name: "y_slot_target"
+}
+item {
+  name: "r_ball_tray"
+  label: 13
+  display_name: "r_ball_tray"
+}
+item {
+  name: "g_ball_tray"
+  label: 14
+  display_name: "g_ball_tray"
+}
+item {
+  name: "floating_arena"
+  label: 15
+  display_name: "floating_arena"
+}
+item {
+  name: "r_funnel"
+  label: 16
+  display_name: "r_funnel"
+}
+item {
+  name: "y_funnel"
+  label: 17
+  display_name: "y_funnel"
+}
+item {
+  name: "g_chip_dispenser"
+  label: 18
+  display_name: "g_chip_dispenser"
+}
+item {
+  name: "g_chip_plate"
+  label: 19
+  display_name: "g_chip_plate"
+}
+item {
+  name: "g_funnel"
+  label: 20
+  display_name: "g_funnel"
+}
