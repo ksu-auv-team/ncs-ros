@@ -1,7 +1,8 @@
 # Instructions
 
 ## Get the dataset
-* Download the dataset you're using from the labeling tool and construct it with package_dataset.py
+* Download the dataset you're using from the labeling tool and construct it with package_dataset.py\
+* Labeling Tool can be found here: https://ksu-auv-team.github.io/labeling.html
 * Convert the dataset from .npz to lmdb with convert_dataset.py, make_data_list.py, and create_data.sh (in that order)
 * Write a label_map.prototxt that matches the dataset
 
