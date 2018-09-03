@@ -1,5 +1,6 @@
 # Instructions
-
+* Clone this Github toolkit for caffe: https://github.com/chuanqi305/MobileNet-SSD
+* "Caffe implementation of Google MobileNet SSD detection network, with pretrained weights on VOC0712 and mAP=0.727."
 ## Get the dataset
 * Download the dataset you're using from the labeling tool and construct it with ` $package_dataset.py\`
 * Labeling Tool can be found here: https://ksu-auv-team.github.io/labeling.html
