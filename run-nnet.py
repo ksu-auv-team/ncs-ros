@@ -73,7 +73,7 @@ def run_inference(image_to_classify, ssd_mobilenet_graph, inputfifo, outputfifo)
 
     # number of boxes returned
     num_valid_boxes = int(output[0])
-    print('total num boxes: ' + str(num_valid_boxes))
+    rospy.loginfo('total num boxes: %s', num_valid_boxes)
     boxes = [num_valid_boxes]
 
     for box_index in range(num_valid_boxes):
@@ -86,7 +86,7 @@ def run_inference(image_to_classify, ssd_mobilenet_graph, inputfifo, outputfifo)
                     not numpy.isfinite(output[base_index + 5]) or
                     not numpy.isfinite(output[base_index + 6])):
                 # boxes with non infinite (inf, nan, etc) numbers must be ignored
-                print('box at index: ' + str(box_index) + ' has nonfinite data, ignoring it')
+                rospy.logwarn('box at index: ' + str(box_index) + ' has nonfinite data, ignoring it')
                 continue
 
             # clip the boxes to the image size incase network returns boxes outside of the image
@@ -107,7 +107,7 @@ def run_inference(image_to_classify, ssd_mobilenet_graph, inputfifo, outputfifo)
 
             boxes.extend([output[base_index + 1], output[base_index + 2]*100, x1_frac, y1_frac, x2_frac, y2_frac])
 
-            print('box at index: ' + str(box_index) + ' : ClassID: ' + LABELS[int(output[base_index + 1])] + '  '
+            rospy.loginfo('box at index: ' + str(box_index) + ' : ClassID: ' + LABELS[int(output[base_index + 1])] + '  '
                   'Confidence: ' + str(output[base_index + 2]*100) + '%  ' +
                   'Top Left: (' + x1_ + ', ' + y1_ + ')  Bottom Right: (' + x2_ + ', ' + y2_ + ')')
 
@@ -190,7 +190,7 @@ def main():
     # we need at least one
     devices = mvnc.enumerate_devices()
     if len(devices) == 0:
-        print('No devices found')
+        rospy.logfatal('No devices found')
         quit()
 
     # Pick the first stick to run the network
@@ -213,7 +213,7 @@ def main():
 
     cam= cv2.VideoCapture(0)
     if not cam.isOpened():
-        print('error: camera not opened')
+        rospy.logerr('error: camera not opened')
     #below property not supported by this opencv implementation.
     # cam.set(cv2.CAP_PROP_BUFFERSIZE , 1)
     
@@ -235,7 +235,7 @@ def main():
     img_counter = 0
     while not rospy.is_shutdown():
         ret, image = cam.read()
-        print(img_counter)
+        rospy.loginfo(img_counter)
         img_counter += 1
         cv2.imwrite('/home/owl/src/ncs-ros/raw_out/'+str(img_counter)+'.jpg', image)
         #run network
@@ -243,7 +243,7 @@ def main():
         #message will be in format described above
         msg = Float32MultiArray()
         msg.data = output
-        print(output)
+        rospy.loginfo(output)
         pub.publish(msg)
 
         cv2.imwrite('/home/owl/src/ncs-ros/out_imgs/'+str(img_counter)+'.jpg', image)
